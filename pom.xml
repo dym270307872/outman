@@ -8,6 +8,10 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>spring-mvc</module>
+		<module>uploadFile</module>
+		<module>solr</module>
+		<module>shiro</module>
+		<module>freemaker</module>
 		<module>redisTemplate</module>
 		<module>sso-server</module>
 	</modules>
