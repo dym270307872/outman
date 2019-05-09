@@ -7,7 +7,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>
+		<module>spring-mvc</module>
 		<module>redisTemplate</module>
+		<module>sso-server</module>
 	</modules>
 
 
