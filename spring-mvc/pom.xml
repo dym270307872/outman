@@ -9,7 +9,6 @@
 		<artifactId>outman</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>cn.dym</groupId>
 	<artifactId>spring-mvc</artifactId>
 	<packaging>war</packaging>
 	<name>spring-mvc</name>
